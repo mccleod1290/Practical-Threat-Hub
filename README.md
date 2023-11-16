@@ -22,6 +22,6 @@ A big shoutout to ChatGPT, an invaluable collaborator throughout this research. 
 
 ## Join the Community
 
-PracticalThreatHub is more than a repository; it's a community. Connect with us on [LinkedIn](your-linkedin-profile) and follow us on [Twitter](your-twitter-handle) for real-time updates, discussions, and more.
+PracticalThreatHub is more than a repository; it's a community. Connect with us on [LinkedIn](https://www.linkedin.com/in/k-madhura-nadh) and follow us on [Twitter](https://twitter.com/mccleod1290) for real-time updates, discussions, and more.
 
 Happy exploring! 🚀🔍

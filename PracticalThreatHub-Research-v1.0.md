@@ -121,8 +121,8 @@ Allow"
 
 --------------
 
-![[Pasted image 20231116154325.png]]
-
+![image](https://github.com/mccleod1290/Practical-Threat-Hub/assets/144599723/cfe48f09-95c4-4cd0-9df0-b9dec2b05ea9)
+Credits to image - https://www.youtube.com/watch?v=ajOr4pcx6T0
 # 1.  Rubeus
 https://tryhackme.com/room/attackingkerberos
 
